@@ -1,10 +1,32 @@
 # GraduationProject
-My Graduation Project 
 
+My Graduation Project 
 Live Chat and integrated Custom Keyboard by Signal Languages for Deaf and speechless People
 
 ---
- ## SCREENSHOT 
+# TODO: 
+- [X] Create Application Design.
+- [X] Setup Firebase Database and Storage.
+- [X] Useing RealmSwift to save data locally. 
+- [X] Create by the signal letters keyboard for deaf people.
+- [X] Access photos gallery and location.
+
+---
+
+# Usage: 
+- [X] UIKit
+- [X] MessageKit
+- [X] JGProgressHUD
+- [X] RealmSwift
+- [X] SDWebImage
+- [X] Firebase Database
+- [X] Firebase Crashlytics
+- [X] Firebase Storage
+- [X] MVC
+- [X] Custom Keyboard 
+
+
+ # SCREENSHOT 
 
  - Home Screen 
  
